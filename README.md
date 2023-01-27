@@ -2,7 +2,6 @@
 
 ## Description:
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 Using this program the user can easily generate a quick team board using the terminal. Follow along with the prompts and create away. The reasoning for building this project is a manager may want to keep track of their workers. This allows the user to track their engineers and interns using a visual approach and they can also easily track key information such as GitHub profiles and school names. This also allows for a team to work together and quickly access information about their peer's. Using JavaScript and command line prompts this application will generate a Bootstrap leveraged webpage that the user can then find in the "dist" folder. There are a few dependancies that the user will need to install and they can be found bellow.
 
 ---
