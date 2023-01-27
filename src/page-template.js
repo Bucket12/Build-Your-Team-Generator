@@ -94,7 +94,7 @@ module.exports = team => {
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 p-5 mb-3 team-heading">
-                <h1 class="text-center">Welcome to the Team !</h1>
+                <h1 class="text-center">Welcome to the Team!</h1>
             </div>
         </div>
     </div>

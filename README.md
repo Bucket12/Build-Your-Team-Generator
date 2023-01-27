@@ -35,7 +35,8 @@ If you would like to see a step by step guide of how the application functions p
 ## Credits
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-Joshua [Minor](https://github.com/jminor90)
+- Joshua [Minor](https://github.com/jminor90)
+- Christopher [Simmonds](https://github.com/Christoph551)
 
 Tests provided by: Rachel [Thiim](https://github.com/rxtATX)
 
