@@ -17,7 +17,7 @@ Using this program the user can easily generate a quick team board using the ter
 
 ## Installation
 ### Please visit: https://github.com/Bucket12/Build-Your-Team-Generator .
-Then, you may need to the install neccesary node_modules to run this application correctly.Using your terminal, navigate to the directory you downloaded the files into and run npm install to download the necessary files. You may also need to install ![inquirer badge](https://img.shields.io/badge/Inquirer-v8.2.4-red) package which can be installed using <npm i inquirer@8.2.4>. If you are a developer and you would to run the tests provided in the __test__ directory; please also <run npm i jest>.
+Then, you may need to the install neccesary node_modules to run this application correctly.Using your terminal, navigate to the directory you downloaded the files into and run npm install to download the necessary files. You may also need to install ![inquirer badge](https://img.shields.io/badge/Inquirer-v8.2.4-red) package which can be installed using <npm i inquirer@8.2.4>. If you are a developer and you would to run the tests provided in the __test__ directory; please also run <npm i jest>.
 
 ---
 
